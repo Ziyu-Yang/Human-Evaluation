@@ -1,0 +1,41 @@
+Original Sentence,Simplifications,Severity Level,confidence,q1,q3_acc
+There are 2 hyperenhancing liver lesions.,There are masses/tumors seen in the liver.,2,2,2.5,0.375
+"Few stable less than 5 mm hypodensities, too small to characterize, probably simple cysts.",There are one or more masses in the liver that are too small to evaluate on this exam but are likely benign cysts.,5,2.5,2.5,0.25
+Diffusely heterogeneously enhancing liver parenchyma.,The liver has an abnormal appearance which could be from many different things.,3,1.375,1.5,0.5
+"Focal perfusion defect posterior aspect, hepatic segment VI, likely a low grade laceration, measures approximately 1.2 cm in depth.",The liver has an abnormal appearance which could be from many different things.,1,1.5,1.875,0
+"Curvilinear perfusion defect within the inferior medial, aspect of the hepatic segment V, likely sequela of prior trauma or infection.","There is a benign finding in the liver, possibly from old trauma or infection.",4,1.375,1.5,0.25
+"Secretions are seen within the trachea, bronchus intermedius, and left mainstem bronchus. There are some impacted small airways bilaterally.",There is excess mucus in the airways within the lungs with some smaller airways showing blockage.,3,1.625,1.625,0.375
+The enteric tube tip terminates within the proximal duodenum.,A feeding tube is present.,4,1.125,1.125,0.375
+The abdominal aorta is normal in course and caliber with mild aortoiliac atherosclerotic calcifications.,The aorta and other large vessels have some plaque along it's walls which may be causing some narrowing.,4,1.875,2,0.625
+There is moderate body wall edema within the bilateral hip soft tissues.,There is excess swelling and fluid in the body.,3,1.5,2.125,0.375
+There is a 1.4 cm cyst at the right hepatic dome.,"There are one or more cysts in the liver, which is a benign finding that can be seen in many people.",5,2.125,2.75,0.125
+"Scattered densely sclerotic bone islands are seen in the pelvic, likely benign.",There are bone findings in the pelvis which are likely benign.,4,2.5,2.125,0.625
+Diffuse hepatic steatosis with some fatty sparing adjacent to the gallbladder fossa.,There is an increased amount of fat in parts of the liver.,4,1.25,1.375,0.375
+"Multiple nonobstructing left renal calculi, largest representative measuring 5 mm.",There are multiple left kidney stones.,4,1.375,1.5,0.5
+Sigmoid colonic diverticula seen without evidence of diverticulitis.,There are sac like pouches in the colon present which may be predisposed to future infection or inflammation.,4,1.5,1.25,0.25
+The psoas muscles are symmetric bilaterally.,The psoas muscles are normal.,5,1.5,1.875,0.75
+There are bilateral dependent hypoventilatory changes with subpleural atelectasis within the right middle and lower lobes.,There are some small areas of incomplete expansion in the lungs. This can occur if the patient did not take a deep breath when the scan was performed.,4,1,1.125,0
+Multiple chronic appearing rib deformities bilaterally.,There are old rib fractures.,4,2.125,2.375,0.5
+"Subcentimeter hypoattenuating lesions within the bilateral kidneys, which are too small to characterize.",There are one or more lesions in the kidneys that are too small to evaluate on this exam but are likely benign cysts.,4,2,2.125,0.75
+There is thickening of the appendix measuring 1.1 cm with appendicolith and surrounding inflammatory stranding.,There is infection of the appendix.,1,1.875,2,0
+Atrophic kidneys are noted bilaterally with multiple simple cysts.,"The kidneys are shrunken and there are one or more cysts in the kidneys, which are benign.",4,1.75,2.375,0.5
+"Nodular hepatic surface contour reflecting, changes of cirrhosis.","The liver shows a bumpy/nodular surface, which can be seen a severe liver disease called cirrhosis.",2,1.25,1.5,0.125
+Partially visualized central pulmonary arteries are not dilated.,The partially seen pulmonary arteries are normal in size.,5,1.75,2,0.25
+There is mild pancreatic parenchymal atrophy without main duct dilation.,The pancreas is slightly shrunken. The pancreatic duct is normal.,4,1.5,1.75,0.5
+There is no intrahepatic or extra-hepatic biliary ductal dilatation.,There are no blockages in the ducts of the liver.,5,1.25,1.375,0.25
+Diastases rectus with a small fat-containing umbilical hernia.,There is slight widening of the abdominal muscles with an area of fat protruding out.,4,1.25,1.375,0.375
+The osseous structures are diffusely demineralized.,There is widespread loss of bone density.,3,1.125,1.25,0.375
+Mosaic perfusion at the lung bases with scattered areas of linear atelectasis.,There are some small areas of incomplete expansion in the lungs. This can occur if the patient did not take a deep breath when the scan was performed.,3,1.125,1.375,0.5
+The pancreas is homogeneous in appearance without focal mass or main duct dilatation.,The pancreas and main pancreatic duct are normal.,5,2,2.625,0.75
+No discrete space-occupying lesions or acute abnormality appreciated in the liver.,The liver is normal.,5,2.25,2.5,0.875
+There are metastatic bony lesions throughout the thorax.,There is widespread cancer to the bones in the chest.,1,1.625,2.25,0
+Myomatous uterus.,There are benign fibroids in the uterus.,4,1,1.25,0.625
+Status post hysterectomy.,The uterus has been surgically removed.,4,1.75,2,0.5
+There is grade 1 anterolisthesis of L4 on L5.,There is mild forward slipping of the L4 vertebrae relative to the L5 vertebrae.,4,1.25,1.25,0
+There is an angiomyolipoma measuring 2 cm along the left renal upper pole.,,4,1.375,1.5,0.375
+There are air-fluid levels in dilated loops of small bowel.,,1,1.5,1.75,0
+There are enlarged celiac and retroperitoneal lymph nodes.,,3,1.5,1.75,0.5
+Diffuse decreased attenuation which can be seen with fatty infiltration.,,4,1.25,1.375,0.625
+There is a moderate sized left fat-containing inguinal hernia.,,3,1.75,2,0.5
+Small calcified granulomata in the left hepatic lobe.,,4,1.375,1.625,0.5
+Diffuse hepatic steatosis.,,4,1,1.625,0.375
